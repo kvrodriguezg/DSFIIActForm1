@@ -109,3 +109,7 @@ header {
 .modal-body {
     text-align: left; /* Alinea todo el texto a la izquierda */
 }
+
+.modal-backdrop {
+    background-color: #6ec49a;
+}
