@@ -105,3 +105,7 @@ header {
     align-items: center; /* Centrar verticalmente */
   }
 }
+
+.modal-body {
+    text-align: left; /* Alinea todo el texto a la izquierda */
+}
